@@ -28,12 +28,12 @@ ___
   Programming Languages   and Tools
 </h3>
 <div>
-  <img height=30 width=40 src="https://icons8.com/icon/bzf0DqjXFHIW/react" />
+  <img height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
   <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img height=30 width=40 src="https://icons8.com/icon/hsPbhkOH4FMe/node-js" />
-  <img height=30 width=40 src="https://icons8.com/icon/13441/python" />
+  <img height=30 width=40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" />
+  <img height=30 width=40 src="https://camo.githubusercontent.com/491e3e316785d254f8709adfeb919a68582e0bef2946e15195e1f66de5e98b10/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667" />
 </div>
 
 ___
