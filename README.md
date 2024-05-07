@@ -2,20 +2,24 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHc4a25yYmd1N2piYzI4ZmdmMzJzc2l1aDNhazJjZzFiZXl0bnpjdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ptzlRfMuHaGgccUzbh/giphy.gif" width="100"/>
 </div>
 <div align="center">
-  <a><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
-</div>
-<div align="center">
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=GabrielDavela&style=for-the-badge&color=03588C&abbreviated=true" alt="Image Viwes"/>
+  <a src="https://www.linkedin.com/in/gabriel-ricardo-davela-1169241b4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a src="https://www.instagram.com/gabdavela/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a src="mailto:gabrielrricardodavela@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 <h1 align="center">
   Hi, I'm Gabriel🖥️
 </h1>
 <h3>
-  About Me
+With over two years of solid software programming experience, I excel in every stage of system development, focusing on both Front-end and Back-end. During this time, I've honed my skills in various technologies, including Java, Python, and React, to craft efficient and innovative solutions.
+
+My key experiences include:
+
+Back-end development using Spring Boot framework, with expertise in JPA, WEB, and Security.
+Front-end development experience with ReactJS.
+Practical knowledge in mobile development for the Android platform.
+Participation in projects involving augmented reality technologies.
+Proficiency in the agile Scrum methodology.
+My next steps aim for continual growth in project development, where I'll tirelessly pursue software excellence and continuous delivery of value to the community.
 </h3>
 
 ___
@@ -24,15 +28,13 @@ ___
   Programming Languages   and Tools
 </h3>
 <div>
-  <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-  <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img height=40 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img height=30 width=40 src="https://icons8.com/icon/bzf0DqjXFHIW/react" />
   <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img height=30 width=40 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img height=30 width=40 src="https://icons8.com/icon/hsPbhkOH4FMe/node-js" />
+  <img height=30 width=40 src="https://icons8.com/icon/13441/python" />
 </div>
-
 
 ___
 
